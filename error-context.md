@@ -1,0 +1,221 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - banner:
+    - generic [ref=e4]:
+      - link "Safora - Industrial Safety Management System" [ref=e7] [cursor=pointer]:
+        - /url: /en/
+        - img "Safora - Industrial Safety Management System" [ref=e8]
+      - navigation [ref=e10]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - link "Home" [ref=e13] [cursor=pointer]:
+              - /url: /en/
+          - listitem [ref=e14]:
+            - link "About Us" [ref=e15] [cursor=pointer]:
+              - /url: /en/about.html
+          - listitem [ref=e16]:
+            - link "Features " [ref=e17] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e18]:
+            - link "Blog" [ref=e19] [cursor=pointer]:
+              - /url: /en/blog.html
+          - listitem [ref=e20]:
+            - link "Contact Us" [ref=e21] [cursor=pointer]:
+              - /url: /en/contact.html
+      - generic [ref=e22]:
+        - generic "Language switcher" [ref=e23]:
+          - link "EN" [ref=e24] [cursor=pointer]:
+            - /url: /en/contact.html
+          - link "SV" [ref=e25] [cursor=pointer]:
+            - /url: /sv/kontakta-oss.html
+        - link "Book a Demo" [ref=e27] [cursor=pointer]:
+          - /url: https://cal.com/irusri
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - link "Safora - Industrial Safety Management System" [ref=e33] [cursor=pointer]:
+        - /url: /en/
+        - img "Safora - Industrial Safety Management System" [ref=e34]
+      - button "Close menu" [ref=e36] [cursor=pointer]
+    - paragraph [ref=e42]: Safora is a modern Industrial Safety Management System specifically designed for organizations that prioritize operational excellence and worker safety.
+    - generic [ref=e44]:
+      - link "Industrial safety management system dashboard screenshot" [ref=e46] [cursor=pointer]:
+        - /url: /en/
+        - img "Industrial safety management system dashboard screenshot" [ref=e47]
+      - link "Workplace safety incident reporting interface" [ref=e49] [cursor=pointer]:
+        - /url: /en/
+        - img "Workplace safety incident reporting interface" [ref=e50]
+      - link "Hazard management and risk assessment tools" [ref=e52] [cursor=pointer]:
+        - /url: /en/
+        - img "Hazard management and risk assessment tools" [ref=e53]
+      - link "Safety inspection and audit management system" [ref=e55] [cursor=pointer]:
+        - /url: /en/
+        - img "Safety inspection and audit management system" [ref=e56]
+      - link "Emergency response and contact management features" [ref=e58] [cursor=pointer]:
+        - /url: /en/
+        - img "Emergency response and contact management features" [ref=e59]
+      - link "Industrial safety management system dashboard screenshot" [ref=e61] [cursor=pointer]:
+        - /url: /en/
+        - img "Industrial safety management system dashboard screenshot" [ref=e62]
+    - generic:
+      - generic:
+        - navigation
+    - generic [ref=e63]:
+      - heading [level=4] [ref=e64]: Contact Info
+      - list [ref=e65]:
+        - listitem [ref=e66]:
+          - img [ref=e68]
+          - link [ref=e72] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=Rådhusesplanaden+6F,+Umeå,+Sweden
+            - text: Rådhusesplanaden 6 F, 903 28, Umeå, Sweden
+        - listitem [ref=e73]:
+          - img [ref=e75]
+          - link [ref=e79] [cursor=pointer]:
+            - /url: tel:+46730445855
+            - text: +46 73 044 58 55
+        - listitem [ref=e80]:
+          - img [ref=e82]
+          - link [ref=e86] [cursor=pointer]:
+            - /url: mailto:info@safora.se
+            - text: info@safora.se
+    - generic [ref=e87]:
+      - heading [level=4] [ref=e88]: Subscribe & Follow
+      - list [ref=e89]:
+        - listitem [ref=e90]:
+          - link [ref=e91] [cursor=pointer]:
+            - /url: https://x.com/IrusriGroup
+            - generic [ref=e92]: 
+        - listitem [ref=e93]:
+          - link [ref=e94] [cursor=pointer]:
+            - /url: https://www.instagram.com/irusrigroup_ab/
+            - generic [ref=e95]: 
+        - listitem [ref=e96]:
+          - link [ref=e97] [cursor=pointer]:
+            - /url: https://web.facebook.com/profile.php?id=61559106915519
+            - generic [ref=e98]: 
+        - listitem [ref=e99]:
+          - link [ref=e100] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/irusri/
+            - generic [ref=e101]: 
+        - listitem [ref=e102]:
+          - link [ref=e103] [cursor=pointer]:
+            - /url: https://irusri.se/
+            - generic [ref=e104]: 
+  - main [ref=e105]:
+    - generic [ref=e111]:
+      - heading "Contact Us" [level=1] [ref=e113]
+      - navigation [ref=e115]:
+        - list [ref=e116]:
+          - listitem [ref=e117]:
+            - text: 
+            - link "Home" [ref=e119] [cursor=pointer]:
+              - /url: /en/
+          - listitem [ref=e120]: Contact Us
+    - generic [ref=e122]:
+      - generic [ref=e125]:
+        - generic [ref=e126]:
+          - img "Safora safety management icon" [ref=e127]
+          - text: Global Branch
+        - heading "Let’s Build a Safer Workplace Together." [level=2] [ref=e128]
+        - paragraph [ref=e129]: Whether you're looking to reduce incidents, strengthen compliance, or digitize your safety operations, our team is ready to help.
+      - img "Safora global office locations map" [ref=e134]
+    - generic [ref=e139]:
+      - generic [ref=e140]:
+        - img [ref=e142]
+        - generic [ref=e144]:
+          - heading "Our Location" [level=5] [ref=e145]
+          - link "Rådhusesplanaden 6 F, 903 28, Umeå, Sweden" [ref=e146] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=Rådhusesplanaden+6F,+Umeå,+Sweden
+      - generic [ref=e147]:
+        - img [ref=e149]
+        - generic [ref=e152]:
+          - heading "Opening Hour" [level=5] [ref=e153]
+          - paragraph [ref=e154]:
+            - text: Mon - Sat 10.00 - 18.00
+            - text: Friday - Closed
+      - generic [ref=e155]:
+        - img [ref=e157]
+        - generic [ref=e159]:
+          - heading "Chat to Support" [level=5] [ref=e160]
+          - generic [ref=e161]:
+            - link "info@safora.se" [ref=e162] [cursor=pointer]:
+              - /url: mailto:info@safora.se
+            - link "business@irusri.com" [ref=e163] [cursor=pointer]:
+              - /url: mailto:business@irusri.com
+      - generic [ref=e164]:
+        - img [ref=e166]
+        - generic [ref=e170]:
+          - heading "Call Us" [level=5] [ref=e171]
+          - link "+46 73 044 58 55" [ref=e172] [cursor=pointer]:
+            - /url: tel:467304458 55
+    - generic [ref=e177]:
+      - heading "Get In Touch" [level=3] [ref=e178]
+      - paragraph [ref=e179]: Speak with a SAFORA specialist to explore how the platform can support your organization’s safety goals.
+      - generic [ref=e181]:
+        - textbox "Your Name" [ref=e184]: Gayani Nadeeshani
+        - textbox "Email Address" [ref=e187]: gayaninadeeshani7@gmail.com
+        - textbox "Phone Number" [ref=e190]: "0757395769"
+        - textbox "Your Message" [active] [ref=e193]: I'm Gayani Nadeeshani. I'm Interest of your company. I'm looking for a intern.
+        - button "Send Message" [ref=e196] [cursor=pointer]
+  - contentinfo [ref=e199]:
+    - generic [ref=e200]:
+      - generic [ref=e203]:
+        - generic [ref=e205]:
+          - link "Safora" [ref=e207] [cursor=pointer]:
+            - /url: /en/
+            - img "Safora" [ref=e208]
+          - generic [ref=e209]:
+            - paragraph [ref=e210]: Safora is an Industrial Safety Management System developed by Irusri Group AB to help organizations manage workplace safety effectively.
+            - generic [ref=e211]:
+              - link "Privacy Policy" [ref=e212] [cursor=pointer]:
+                - /url: /en/privacy-policy.html
+              - text: "|"
+              - link "Terms of use" [ref=e213] [cursor=pointer]:
+                - /url: /en/terms-of-use.html
+        - generic [ref=e215]:
+          - heading "Phone Number" [level=5] [ref=e216]
+          - generic [ref=e217]:
+            - link "+46 73 044 58 55" [ref=e221] [cursor=pointer]:
+              - /url: tel:46730445855
+            - heading "Email Address" [level=5] [ref=e222]
+            - link "info@safora.se" [ref=e224] [cursor=pointer]:
+              - /url: mailto:info@safora.se
+        - generic [ref=e226]:
+          - heading "Office Address" [level=5] [ref=e227]
+          - generic [ref=e229]:
+            - link "Rådhusesplanaden 6 F, 903 28, Umeå, Sweden" [ref=e231] [cursor=pointer]:
+              - /url: https://www.google.com/maps/search/?api=1&query=Rådhusesplanaden+6F,+Umeå,+Sweden
+            - heading "Follow Us" [level=5] [ref=e232]
+            - generic [ref=e234]:
+              - link "X (Twitter)" [ref=e235] [cursor=pointer]:
+                - /url: https://x.com/IrusriGroup
+                - generic [ref=e236]: 
+              - link "Instagram" [ref=e237] [cursor=pointer]:
+                - /url: https://www.instagram.com/irusrigroup_ab/
+                - generic [ref=e238]: 
+              - link "Facebook" [ref=e239] [cursor=pointer]:
+                - /url: https://web.facebook.com/profile.php?id=61559106915519
+                - generic [ref=e240]: 
+              - link "LinkedIn" [ref=e241] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/irusri/
+                - generic [ref=e242]: 
+              - link "Irusri Website" [ref=e243] [cursor=pointer]:
+                - /url: https://irusri.se/
+                - generic [ref=e244]: 
+      - paragraph [ref=e250]:
+        - text: © 2026 Safora
+        - img "Heart Icon" [ref=e251]
+        - link "Irusri Website" [ref=e252] [cursor=pointer]:
+          - /url: https://irusri.se/
+          - img "Irusri AB" [ref=e253]
+  - generic [ref=e254] [cursor=pointer]:
+    - img [ref=e255]
+    - text: 
+  - generic:
+    - generic: 👋 New Message
+  - button "Chat 1" [ref=e257] [cursor=pointer]:
+    - img "Chat" [ref=e259]
+    - img [ref=e262]
+    - generic [ref=e264]: "1"
+```
